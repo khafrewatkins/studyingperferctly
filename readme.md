@@ -1,0 +1,2 @@
+This apps intended purpose is to assist in studying technical documents through the use of text-to-speech, spatial repetition assistance and calendarization. This project uses javascript and node.js for the front and backends. Results vary for the text-to-speech depending on browser compatibility. A list of browser compatibility can be found here https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance. 
+

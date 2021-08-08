@@ -1,0 +1,19 @@
+body {
+  display: block;
+  background-color: #524444;
+  color: #9967a3;
+  
+  
+}
+.btn-outline-success {
+  width: 50%;
+
+}
+
+#show_div {
+  display: none;
+}
+
+.hide {
+  display: none;
+}
